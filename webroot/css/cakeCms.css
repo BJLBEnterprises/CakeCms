@@ -1,0 +1,25 @@
+div.form.no-border {
+	border: none;
+}
+div.form.no-float {
+	float: none;
+}
+div.form.text-block {
+	width: 500px;
+}
+span.pw-strength {
+	float: right;
+	font-weight: bold;
+	position: relative;
+	top: -1.55em;
+	right: 1em;
+}
+span.pw-strength.weak {
+	color: red;
+}
+span.pw-strength.fair {
+	color: goldenrod;
+}
+span.pw-strength.strong {
+	color: green;
+}
